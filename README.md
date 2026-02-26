@@ -1,34 +1,43 @@
-👨‍💻 Micael Marcos
+# 👨‍💻 Micael Marcos
 
-Desenvolvedor Junior | ADS | Full Stack | Python, Java & JavaScript
+**Desenvolvedor Full Stack Júnior | ADS | Python • Java • JavaScript**
 
-Sou Desenvolvedor Junior e estudante de Análise e Desenvolvimento de Sistemas, com foco em Full Stack. Tenho experiência no desenvolvimento de aplicações web e estou em constante evolução, buscando criar soluções organizadas, escaláveis e eficientes.
+Sou Desenvolvedor Full Stack Júnior e estudante de **Análise e Desenvolvimento de Sistemas**, com foco na criação de aplicações web organizadas, escaláveis e eficientes.
 
+Tenho experiência no desenvolvimento de projetos completos, atuando tanto no **front-end** quanto no **back-end**, sempre aplicando boas práticas e buscando evolução contínua na área de tecnologia.
 
-##Tecnologias
+---
 
-#Front-end
+## 🚀 Tecnologias
 
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Bootstrap
+### 🎨 Front-end
 
-#Back-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white\&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white\&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black\&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB\&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap\&logoColor=white\&style=for-the-badge)
 
-- Python
-- Django
-- Java
-- APIs REST
+---
 
-#Ferramentas
+### ⚙️ Back-end
 
-- Git
-- GitHub
-- Clean Code
-- Estruturação de projetos
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white\&style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django\&logoColor=white\&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk\&logoColor=white\&style=for-the-badge)
+![REST API](https://img.shields.io/badge/APIs_REST-02569B?logo=fastapi\&logoColor=white\&style=for-the-badge)
 
-##Objetivo
+---
 
-Conquistar minha primeira oportunidade como Desenvolvedor Full Stack e evoluir profissionalmente através de projetos reais.
+### 🛠️ Ferramentas & Boas Práticas
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white\&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white\&style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge)
+![Estruturação de Projetos](https://img.shields.io/badge/Arquitetura_de_Projetos-4CAF50?style=for-the-badge)
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade como **Desenvolvedor Full Stack**, onde eu possa contribuir com projetos reais, aprimorar minhas habilidades técnicas e crescer profissionalmente através de desafios práticos e aprendizado contínuo.

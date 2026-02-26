@@ -8,9 +8,9 @@ Tenho experiência no desenvolvimento de projetos completos, atuando tanto no **
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
-### 🎨 Front-end
+### Front-end
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white\&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white\&style=for-the-badge)
@@ -20,7 +20,7 @@ Tenho experiência no desenvolvimento de projetos completos, atuando tanto no **
 
 ---
 
-### ⚙️ Back-end
+### Back-end
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white\&style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django\&logoColor=white\&style=for-the-badge)
@@ -29,7 +29,7 @@ Tenho experiência no desenvolvimento de projetos completos, atuando tanto no **
 
 ---
 
-### 🛠️ Ferramentas & Boas Práticas
+### Ferramentas & Boas Práticas
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white\&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white\&style=for-the-badge)
@@ -38,6 +38,6 @@ Tenho experiência no desenvolvimento de projetos completos, atuando tanto no **
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Busco minha primeira oportunidade como **Desenvolvedor Full Stack**, onde eu possa contribuir com projetos reais, aprimorar minhas habilidades técnicas e crescer profissionalmente através de desafios práticos e aprendizado contínuo.

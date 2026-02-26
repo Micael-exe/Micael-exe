@@ -1,53 +1,34 @@
-# 👨‍💻 Micael Marcos  
-### Desenvolvedor de Software
+👨‍💻 Micael Marcos
 
-Olá! Meu nome é **Micael Marcos** e sou um desenvolvedor de software apaixonado por tecnologia, focado em **boas práticas**, **qualidade de código** e **aprendizado contínuo**. Tenho experiência no desenvolvimento de aplicações web modernas e estou sempre em busca de novos desafios que contribuam para minha evolução profissional.
+Desenvolvedor Junior | ADS | Full Stack | Python, Java & JavaScript
 
-## 🧠 Sobre Mim
+Sou Desenvolvedor Junior e estudante de Análise e Desenvolvimento de Sistemas, com foco em Full Stack. Tenho experiência no desenvolvimento de aplicações web e estou em constante evolução, buscando criar soluções organizadas, escaláveis e eficientes.
 
-Sou um desenvolvedor comprometido com a construção de soluções eficientes, organizadas e escaláveis. Gosto de entender o problema antes de escrever código e valorizo padrões de projeto, legibilidade e manutenibilidade.
 
-Atualmente, concentro meus estudos e projetos em **desenvolvimento web**, explorando tanto o **front-end** quanto o **back-end**, além de linguagens consolidadas no mercado.
+##Tecnologias
 
-## 🚀 Tecnologias & Conhecimentos
+#Front-end
 
-### 🎨 Front-end
-- **HTML5** – Estruturação semântica e acessível
-- **CSS3** – Layouts responsivos, Flexbox e Grid
-- **JavaScript (ES6+)** – Lógica, manipulação de DOM e consumo de APIs
-- **React** – Criação de interfaces modernas utilizando **Vite**, componentes reutilizáveis e hooks
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Bootstrap
 
-### ⚙️ Back-end & Linguagens
-- **Java** – Programação orientada a objetos e fundamentos de back-end
-- **Python** – Automação, lógica de programação e scripts
+#Back-end
 
-### 🛠️ Ferramentas & Práticas
-- Git & GitHub
-- Controle de versão
-- Organização de projetos
-- Boas práticas de código
+- Python
+- Django
+- Java
+- APIs REST
+
+#Ferramentas
+
+- Git
+- GitHub
 - Clean Code
-- Componentização
-- Aprendizado contínuo
+- Estruturação de projetos
 
-## 📚 Princípios que sigo
+##Objetivo
 
-- Código limpo e legível  
-- Separação de responsabilidades  
-- Reutilização de componentes  
-- Evolução constante através de estudos e prática  
-- Compromisso com qualidade e eficiência  
-
-## 🎯 Objetivos Profissionais
-
-- Evoluir como desenvolvedor full stack  
-- Contribuir para projetos reais e desafiadores  
-- Desenvolver aplicações escaláveis e bem estruturadas  
-- Aprender novas tecnologias e frameworks constantemente  
-
-## 📌 Em constante evolução
-
-A tecnologia está sempre mudando, e eu também. Estou continuamente estudando, praticando e aprimorando minhas habilidades para entregar soluções cada vez melhores.
-
-
-📫 **Fique à vontade para acompanhar meus projetos ou entrar em contato!**
+Conquistar minha primeira oportunidade como Desenvolvedor Full Stack e evoluir profissionalmente através de projetos reais.

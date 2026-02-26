@@ -1,10 +1,8 @@
 # 👨‍💻 Micael Marcos
 
-**Desenvolvedor Full Stack Júnior | ADS | Python • Java • JavaScript**
+*** Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full Stack (em aprendizado) | Python • Java • JavaScript
 
-Sou Desenvolvedor Full Stack Júnior e estudante de **Análise e Desenvolvimento de Sistemas**, com foco na criação de aplicações web organizadas, escaláveis e eficientes.
-
-Tenho experiência no desenvolvimento de projetos completos, atuando tanto no **front-end** quanto no **back-end**, sempre aplicando boas práticas e buscando evolução contínua na área de tecnologia.
+Sou um desenvolvedor dedicado, proativo e detalhista, com foco na criação de aplicações web organizadas, escaláveis e eficientes. Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e aplicar boas práticas de desenvolvimento em projetos completos, atuando tanto no front-end quanto no back-end.
 
 ---
 

@@ -35,6 +35,11 @@ Sou um desenvolvedor dedicado, proativo e detalhista, com foco na criação de a
 ![Estruturação de Projetos](https://img.shields.io/badge/Arquitetura_de_Projetos-4CAF50?style=for-the-badge)
 
 ---
+### Meus Status no GitHub
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Micael-exe&theme=dark&hide_border=true)
+
+---
 
 ## Objetivo
 

@@ -23,6 +23,18 @@ Sou um desenvolvedor dedicado, proativo e detalhista, com foco na criação de a
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 ![REST API](https://img.shields.io/badge/APIs_REST-02569B?logo=fastapi&logoColor=white&style=for-the-badge)
 
+### Sistemas Operacionais & Redes
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-6A1B9A?style=for-the-badge)
+![ARP](https://img.shields.io/badge/ARP-C62828?style=for-the-badge)
+
 ### Ferramentas & Boas Práticas
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
@@ -38,7 +50,12 @@ Sou um desenvolvedor dedicado, proativo e detalhista, com foco na criação de a
 |---|---|---|
 | [**Network Sentinel**](https://github.com/Micael-exe/Network-Sentinel) | Ferramenta para monitorar redes domésticas: descobre dispositivos com Nmap, analisa tráfego com tshark, dispara alertas de comportamento suspeito (ex.: ARP spoofing) e gera relatórios em HTML/Markdown | `Python` `SQLite` `Nmap` `Wireshark` |
 | [**API de Validação com Chain of Responsibility**](https://github.com/Micael-exe/java-chain-of-responsibility-api) | API REST que aplica o padrão Chain of Responsibility para validar cadastros de usuários em etapas independentes, evitando blocos gigantes de `if/else` | `Java` `Spring Boot` `Maven` |
-| [**ArcaTCG**](https://github.com/Micael-exe/ArcaTCG) | Projeto de jogo de cartas colecionáveis (TCG) | `[tecnologias]` |
+| [**ArcaTCG**](https://github.com/Micael-exe/ArcaTCG) | 	Loja e-commerce de cartas e utensílios de TCG, com dados mockados e estrutura preparada para integração futura com uma API REST | `React``Tailwind``CSS` |
+
+---
+
+## Estatísticas
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Micael-exe&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -50,5 +67,5 @@ Busco minha primeira oportunidade como **Desenvolvedor Full Stack**, onde eu pos
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/SEU-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:seu-email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://br.linkedin.com/in/micael-marcos-duarte-da-silva-a924ba318)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:micael.mdsilva@gmail.com)

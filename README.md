@@ -1,8 +1,8 @@
 # 👨‍💻 Micael Marcos
 
-**Analista de Desenvolvimento de Sistemas | Desenvolvedor Full Stack | Python • Java • JavaScript**
+**Estudante de Cibersegurança e Análise e Desenvolvimento de Sistemas (ADS) | Desenvolvedor Full Stack | Python • Java • JavaScript**
 
-Sou um desenvolvedor dedicado, proativo e detalhista, com foco na criação de aplicações web organizadas, escaláveis e eficientes. Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e aplicar boas práticas de desenvolvimento em projetos completos, atuando tanto no front-end quanto no back-end.
+Sou estudante de Cibersegurança e ADS, com forte interesse em segurança da informação, redes e desenvolvimento seguro. Dedicado, proativo e detalhista, crio aplicações web organizadas, escaláveis e eficientes, atuando tanto no front-end quanto no back-end, sempre com atenção às boas práticas e à proteção de dados e sistemas. Tenho facilidade em aprender novas tecnologias e trabalhar em equipe, e busco unir desenvolvimento e cibersegurança para construir soluções mais seguras.
 
 ---
 

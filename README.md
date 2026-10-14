@@ -50,7 +50,7 @@ Sou um desenvolvedor dedicado, proativo e detalhista, com foco na criação de a
 |---|---|---|
 | [**Network Sentinel**](https://github.com/Micael-exe/Network-Sentinel) | Ferramenta para monitorar redes domésticas: descobre dispositivos com Nmap, analisa tráfego com tshark, dispara alertas de comportamento suspeito (ex.: ARP spoofing) e gera relatórios em HTML/Markdown | `Python` `SQLite` `Nmap` `Wireshark` |
 | [**API de Validação com Chain of Responsibility**](https://github.com/Micael-exe/java-chain-of-responsibility-api) | API REST que aplica o padrão Chain of Responsibility para validar cadastros de usuários em etapas independentes, evitando blocos gigantes de `if/else` | `Java` `Spring Boot` `Maven` |
-| [**ArcaTCG**](https://github.com/Micael-exe/ArcaTCG) | 	Loja e-commerce de cartas e utensílios de TCG, com dados mockados e estrutura preparada para integração futura com uma API REST | `React``Tailwind``CSS` |
+| [**ArcaTCG**](https://github.com/Micael-exe/ArcaTCG) | 	Loja e-commerce de cartas e utensílios de TCG, com dados mockados e estrutura preparada para integração futura com uma API REST | `React` `Tailwind` `CSS` |
 
 ---
 

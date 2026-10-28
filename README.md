@@ -55,7 +55,7 @@ Sou estudante de Cibersegurança e ADS, com forte interesse em segurança da inf
 ---
 
 ## Estatísticas
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Micael-exe&show_icons=true&theme=tokyonight&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Micael-exe&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 

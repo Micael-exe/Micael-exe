@@ -95,7 +95,7 @@ Construo aplicações web organizadas, escaláveis e eficientes, atuando no fron
 
 ## Projetos em destaque
 
-### 🛡️ [Network Sentinel](https://github.com/Micael-exe/Network-Sentinel)
+###  [Network Sentinel](https://github.com/Micael-exe/Network-Sentinel)
 Ferramenta de monitoramento de redes domésticas. Descobre dispositivos com **Nmap**, analisa tráfego com **tshark**, dispara alertas de comportamento suspeito (como **ARP spoofing**) e gera relatórios em HTML e Markdown.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -103,21 +103,21 @@ Ferramenta de monitoramento de redes domésticas. Descobre dispositivos com **Nm
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-### ⚙️ [API de Validação com Chain of Responsibility](https://github.com/Micael-exe/java-chain-of-responsibility-api)
+###  [API de Validação com Chain of Responsibility](https://github.com/Micael-exe/java-chain-of-responsibility-api)
 API REST que aplica o padrão **Chain of Responsibility** para validar cadastros de usuários em etapas independentes, eliminando blocos extensos de `if/else` e facilitando a manutenção e a extensão das regras.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
-### 🛒 [ArcaTCG](https://github.com/Micael-exe/ArcaTCG)
+###  [ArcaTCG](https://github.com/Micael-exe/ArcaTCG)
 E-commerce de cartas e utensílios de TCG, com dados mockados e estrutura preparada para integração futura com uma API REST.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🗺️ [Jaboatão 360](https://github.com/Micael-exe/Jaboatao-360)
+###  [Jaboatão 360](https://github.com/Micael-exe/Jaboatao-360)
 Plataforma digital de turismo e comércio local de Jaboatão dos Guararapes (PE). O MVP web reúne **mapa interativo** dos atrativos, **planejamento de roteiros** com paradas e horários, vitrine de **comércio local** com busca, filtros e favoritos, e perfil do usuário. O projeto conta com testes automatizados, pipeline de **CI** (lint, testes e build) e roadmap para backend em Django, assistente com IA e app mobile.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)

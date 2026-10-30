@@ -15,7 +15,6 @@
 ![Busco](https://img.shields.io/badge/Busco-Primeira_oportunidade-8957E5?style=flat-square)
 
 [![Seguidores](https://img.shields.io/github/followers/Micael-exe?style=flat-square&logo=github&label=Seguidores&color=181717&logoColor=white)](https://github.com/Micael-exe?tab=followers)
-[![Repositórios](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMicael-exe&query=%24.public_repos&style=flat-square&logo=github&label=Reposit%C3%B3rios&color=1F6FEB&logoColor=white)](https://github.com/Micael-exe?tab=repositories)
 [![Visualizações](https://komarev.com/ghpvc/?username=Micael-exe&label=Visualiza%C3%A7%C3%B5es&color=0A66C2&style=flat-square)](https://github.com/Micael-exe)
 
 <br>
@@ -155,9 +154,6 @@ Protótipo desenvolvido para o Ideathon Paulista Sustentável: sistema de mapeam
 <div align="center">
 
 <img height="180" src="https://github-stats-extended.vercel.app/api?username=Micael-exe&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Micael-exe&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Micael-exe&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade">
 
 </div>
 

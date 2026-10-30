@@ -127,7 +127,7 @@ Plataforma digital de turismo e comércio local de Jaboatão dos Guararapes (PE)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### ♻️ [Nexo (Canal em Dia)](https://github.com/Micael-exe/Nexo)
+###  [Nexo (Canal em Dia)](https://github.com/Micael-exe/Nexo)
 Protótipo desenvolvido para o Ideathon Paulista Sustentável: sistema de mapeamento e monitoramento de pontos de descarte irregular de entulho e móveis, que ajuda a prefeitura a acompanhar reincidências e organizar as equipes de limpeza urbana. Inclui formulário de relato cidadão com upload de fotos (reprocessadas no servidor, sem metadados), recibo com protocolo, e uma área municipal autenticada com painel, filtros e histórico de situação. Foco em **privacidade e segurança**: gravação atômica com lock, credenciais armazenadas como hash, sessões cifradas, limite de tentativas e respostas `no-store`.
 
 ![PHP](https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white)

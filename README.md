@@ -37,6 +37,7 @@ Construo aplicações web organizadas, escaláveis e eficientes, atuando no fron
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
     </td>
   </tr>
   <tr>
@@ -47,6 +48,9 @@ Construo aplicações web organizadas, escaláveis e eficientes, atuando no fron
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
       <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+      <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white" alt="Livewire">
       <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs">
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
     </td>
@@ -76,6 +80,10 @@ Construo aplicações web organizadas, escaláveis e eficientes, atuando no fron
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest">
+      <img src="https://img.shields.io/badge/PHPUnit-3C9CD7?style=flat-square" alt="PHPUnit">
       <img src="https://img.shields.io/badge/Clean_Code-2EA043?style=flat-square" alt="Clean Code">
       <img src="https://img.shields.io/badge/Design_Patterns-455A64?style=flat-square" alt="Design Patterns">
       <img src="https://img.shields.io/badge/Arquitetura_de_Projetos-1F6FEB?style=flat-square" alt="Arquitetura de Projetos">
@@ -108,6 +116,26 @@ E-commerce de cartas e utensílios de TCG, com dados mockados e estrutura prepar
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🗺️ [Jaboatão 360](https://github.com/Micael-exe/Jaboatao-360)
+Plataforma digital de turismo e comércio local de Jaboatão dos Guararapes (PE). O MVP web reúne **mapa interativo** dos atrativos, **planejamento de roteiros** com paradas e horários, vitrine de **comércio local** com busca, filtros e favoritos, e perfil do usuário. O projeto conta com testes automatizados, pipeline de **CI** (lint, testes e build) e roadmap para backend em Django, assistente com IA e app mobile.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### ♻️ [Nexo (Canal em Dia)](https://github.com/Micael-exe/Nexo)
+Protótipo desenvolvido para o Ideathon Paulista Sustentável: sistema de mapeamento e monitoramento de pontos de descarte irregular de entulho e móveis, que ajuda a prefeitura a acompanhar reincidências e organizar as equipes de limpeza urbana. Inclui formulário de relato cidadão com upload de fotos (reprocessadas no servidor, sem metadados), recibo com protocolo, e uma área municipal autenticada com painel, filtros e histórico de situação. Foco em **privacidade e segurança**: gravação atômica com lock, credenciais armazenadas como hash, sessões cifradas, limite de tentativas e respostas `no-store`.
+
+![PHP](https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3C9CD7?style=flat-square)
 
 ---
 

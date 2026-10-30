@@ -1,17 +1,28 @@
 <div align="center">
 
-# Micael Marcos
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:06B6D4&height=200&section=header&text=Micael%20Marcos&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full%20Stack%20%C2%B7%20Ciberseguran%C3%A7a&descSize=18&descAlignY=60" alt="Micael Marcos">
 
-**Desenvolvedor Full Stack · Estudante de Cibersegurança e ADS**
+<a href="https://github.com/Micael-exe">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full+Stack;Estudante+de+Ciberseguran%C3%A7a+e+ADS;Python+%C2%B7+Java+%C2%B7+JavaScript+%C2%B7+PHP;Desenvolvimento+seguro+%7C+Redes+%7C+Web" alt="Typing SVG">
+</a>
 
-Python · Java · JavaScript · Segurança da Informação
+<br><br>
+
+![Status](https://img.shields.io/badge/Status-Aberto_a_oportunidades-2EA043?style=flat-square&logo=statuspage&logoColor=white)
+![Foco](https://img.shields.io/badge/Foco-Full_Stack-1F6FEB?style=flat-square&logo=codesandbox&logoColor=white)
+![Estudando](https://img.shields.io/badge/Estudando-Ciberseguran%C3%A7a-C62828?style=flat-square&logo=kalilinux&logoColor=white)
+![Curso](https://img.shields.io/badge/Cursando-ADS-F59E0B?style=flat-square&logo=academia&logoColor=white)
+![Busco](https://img.shields.io/badge/Busco-Primeira_oportunidade-8957E5?style=flat-square)
+
+[![Seguidores](https://img.shields.io/github/followers/Micael-exe?style=flat-square&logo=github&label=Seguidores&color=181717&logoColor=white)](https://github.com/Micael-exe?tab=followers)
+[![Repositórios](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMicael-exe&query=%24.public_repos&style=flat-square&logo=github&label=Reposit%C3%B3rios&color=1F6FEB&logoColor=white)](https://github.com/Micael-exe?tab=repositories)
+[![Visualizações](https://komarev.com/ghpvc/?username=Micael-exe&label=Visualiza%C3%A7%C3%B5es&color=0A66C2&style=flat-square)](https://github.com/Micael-exe)
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/micael-marcos-duarte-da-silva-a924ba318)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:micael.mdsilva@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Micael-exe)
-![Status](https://img.shields.io/badge/Status-Aberto_a_oportunidades-2EA043?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/micael-marcos-duarte-da-silva-a924ba318)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micael.mdsilva@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Micael-exe)
 
 </div>
 
@@ -98,7 +109,7 @@ Construo aplicações web organizadas, escaláveis e eficientes, atuando no fron
 ###  [Network Sentinel](https://github.com/Micael-exe/Network-Sentinel)
 Ferramenta de monitoramento de redes domésticas. Descobre dispositivos com **Nmap**, analisa tráfego com **tshark**, dispara alertas de comportamento suspeito (como **ARP spoofing**) e gera relatórios em HTML e Markdown.
 
-![Status](https://img.shields.io/badge/Status-Funcional-2EA043?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
@@ -106,21 +117,21 @@ Ferramenta de monitoramento de redes domésticas. Descobre dispositivos com **Nm
 ###  [API de Validação com Chain of Responsibility](https://github.com/Micael-exe/java-chain-of-responsibility-api)
 API REST que aplica o padrão **Chain of Responsibility** para validar cadastros de usuários em etapas independentes, eliminando blocos extensos de `if/else` e facilitando a manutenção e a extensão das regras.
 
-![Status](https://img.shields.io/badge/Status-Funcional-2EA043?style=flat-square) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 ###  [ArcaTCG](https://github.com/Micael-exe/ArcaTCG)
 E-commerce de cartas e utensílios de TCG, com dados mockados e estrutura preparada para integração futura com uma API REST.
 
-![Status](https://img.shields.io/badge/Status-Protótipo-1F6FEB?style=flat-square) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ###  [Jaboatão 360](https://github.com/Micael-exe/Jaboatao-360)
 Plataforma digital de turismo e comércio local de Jaboatão dos Guararapes (PE). O MVP web reúne **mapa interativo** dos atrativos, **planejamento de roteiros** com paradas e horários, vitrine de **comércio local** com busca, filtros e favoritos, e perfil do usuário. O projeto conta com testes automatizados, pipeline de **CI** (lint, testes e build) e roadmap para backend em Django, assistente com IA e app mobile.
 
-![Status](https://img.shields.io/badge/Status-Em_desenvolvimento-D29922?style=flat-square) [![CI](https://github.com/Micael-exe/jaboatao-360/actions/workflows/ci.yml/badge.svg)](https://github.com/Micael-exe/jaboatao-360/actions/workflows/ci.yml) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
@@ -130,7 +141,7 @@ Plataforma digital de turismo e comércio local de Jaboatão dos Guararapes (PE)
 ###  [Nexo (Canal em Dia)](https://github.com/Micael-exe/Nexo)
 Protótipo desenvolvido para o Ideathon Paulista Sustentável: sistema de mapeamento e monitoramento de pontos de descarte irregular de entulho e móveis, que ajuda a prefeitura a acompanhar reincidências e organizar as equipes de limpeza urbana. Inclui formulário de relato cidadão com upload de fotos (reprocessadas no servidor, sem metadados), recibo com protocolo, e uma área municipal autenticada com painel, filtros e histórico de situação. Foco em **privacidade e segurança**: gravação atômica com lock, credenciais armazenadas como hash, sessões cifradas, limite de tentativas e respostas `no-store`.
 
-![Status](https://img.shields.io/badge/Status-Protótipo-1F6FEB?style=flat-square) ![PHP](https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
@@ -143,7 +154,10 @@ Protótipo desenvolvido para o Ideathon Paulista Sustentável: sistema de mapeam
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=Micael-exe&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=Micael-exe&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Micael-exe&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Micael-exe&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade">
 
 </div>
 
@@ -163,3 +177,5 @@ Busco minha primeira oportunidade como **Desenvolvedor Full Stack**, onde possa 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micael.mdsilva@gmail.com)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:06B6D4&height=100&section=footer" alt="">

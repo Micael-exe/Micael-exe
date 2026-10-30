@@ -98,7 +98,7 @@ Construo aplicações web organizadas, escaláveis e eficientes, atuando no fron
 ###  [Network Sentinel](https://github.com/Micael-exe/Network-Sentinel)
 Ferramenta de monitoramento de redes domésticas. Descobre dispositivos com **Nmap**, analisa tráfego com **tshark**, dispara alertas de comportamento suspeito (como **ARP spoofing**) e gera relatórios em HTML e Markdown.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Funcional-2EA043?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
@@ -106,21 +106,21 @@ Ferramenta de monitoramento de redes domésticas. Descobre dispositivos com **Nm
 ###  [API de Validação com Chain of Responsibility](https://github.com/Micael-exe/java-chain-of-responsibility-api)
 API REST que aplica o padrão **Chain of Responsibility** para validar cadastros de usuários em etapas independentes, eliminando blocos extensos de `if/else` e facilitando a manutenção e a extensão das regras.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Funcional-2EA043?style=flat-square) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 ###  [ArcaTCG](https://github.com/Micael-exe/ArcaTCG)
 E-commerce de cartas e utensílios de TCG, com dados mockados e estrutura preparada para integração futura com uma API REST.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Status](https://img.shields.io/badge/Status-Protótipo-1F6FEB?style=flat-square) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ###  [Jaboatão 360](https://github.com/Micael-exe/Jaboatao-360)
 Plataforma digital de turismo e comércio local de Jaboatão dos Guararapes (PE). O MVP web reúne **mapa interativo** dos atrativos, **planejamento de roteiros** com paradas e horários, vitrine de **comércio local** com busca, filtros e favoritos, e perfil do usuário. O projeto conta com testes automatizados, pipeline de **CI** (lint, testes e build) e roadmap para backend em Django, assistente com IA e app mobile.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Status](https://img.shields.io/badge/Status-Em_desenvolvimento-D29922?style=flat-square) [![CI](https://github.com/Micael-exe/jaboatao-360/actions/workflows/ci.yml/badge.svg)](https://github.com/Micael-exe/jaboatao-360/actions/workflows/ci.yml) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
@@ -130,7 +130,7 @@ Plataforma digital de turismo e comércio local de Jaboatão dos Guararapes (PE)
 ###  [Nexo (Canal em Dia)](https://github.com/Micael-exe/Nexo)
 Protótipo desenvolvido para o Ideathon Paulista Sustentável: sistema de mapeamento e monitoramento de pontos de descarte irregular de entulho e móveis, que ajuda a prefeitura a acompanhar reincidências e organizar as equipes de limpeza urbana. Inclui formulário de relato cidadão com upload de fotos (reprocessadas no servidor, sem metadados), recibo com protocolo, e uma área municipal autenticada com painel, filtros e histórico de situação. Foco em **privacidade e segurança**: gravação atômica com lock, credenciais armazenadas como hash, sessões cifradas, limite de tentativas e respostas `no-store`.
 
-![PHP](https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Protótipo-1F6FEB?style=flat-square) ![PHP](https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
